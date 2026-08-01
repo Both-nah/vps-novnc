@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://farmers-terminal-initial-wiring.trycloudflare.com/vnc.html
+URL       : https://packets-los-charge-cast.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-01 15:53:41
+Created   : 2026-08-01 20:41:24
 =======================================================
