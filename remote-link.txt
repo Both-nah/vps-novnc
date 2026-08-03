@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://projectors-organisations-periodically-cal.trycloudflare.com/vnc.html
+URL       : https://thru-biggest-aluminium-pencil.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-03 17:06:01
+Created   : 2026-08-03 20:55:07
 =======================================================
