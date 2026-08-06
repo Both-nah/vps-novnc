@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://priority-gbp-locking-name.trycloudflare.com/vnc.html
+URL       : https://both-hardwood-johnny-philadelphia.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-06 07:33:37
+Created   : 2026-08-06 11:57:58
 =======================================================
