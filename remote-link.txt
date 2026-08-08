@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://overnight-rob-estimation-awarded.trycloudflare.com/vnc.html
+URL       : https://techniques-days-clause-collector.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-08 10:22:04
+Created   : 2026-08-08 20:18:24
 =======================================================
