@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://elements-scientists-worth-you.trycloudflare.com/vnc.html
+URL       : https://generally-asia-francis-tires.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-16 18:32:59
+Created   : 2026-10-16 22:21:01
 =======================================================
