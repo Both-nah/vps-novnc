@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://dinner-shine-caroline-minimal.trycloudflare.com/vnc.html
+URL       : https://apt-enforcement-juice-assessed.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-01 23:14:37
+Created   : 2026-11-02 03:04:18
 =======================================================
