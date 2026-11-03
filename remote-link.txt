@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://genetics-api-tri-underwear.trycloudflare.com/vnc.html
+URL       : https://boolean-workplace-innovations-indexed.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-03 12:29:42
+Created   : 2026-11-03 20:43:34
 =======================================================
